@@ -8,7 +8,7 @@ uses the Signum API to get a list of the contracts created by Signa wallet provi
 Clicking on any non-zero balance will offer to send a cancellation request to the contract.  
 This is useful when a user loses control of a BUY or SELL contract created by BTDEX and needs to cancel it and get any balance held by that contract refunded.
 
-The user will need to enter their secret passphrase to perform the cancelation.  This info is not stored by the program of compromised.
+The user will need to enter their secret passphrase to perform the cancelation.  This info is not stored by the program or compromised.
 
 Features
 --------

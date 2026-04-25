@@ -14,7 +14,7 @@ Features
 --------
 - The signum contracts are reported by contract address (S- or TS-).  
 
-- Clicking on a non-zero contract balance, will attempt to cancel the contract holding that amount by sending the unencrypted message: b00e004992c79bd8000000000000000000000000000000000000000000000000 with 0.2 SIGNA and 0.03 SIGNA fee to that contract address after securely prompting for a secret passphrase. 
+- Clicking on a contract balance, will attempt to cancel the contract holding that amount by sending the unencrypted message: b00e004992c79bd8000000000000000000000000000000000000000000000000 with 0.2 SIGNA and 0.03 SIGNA fee to that contract address after securely prompting for a secret passphrase. 
 
 - Clicking on the contract addresses open that address in the signum explorer.
 

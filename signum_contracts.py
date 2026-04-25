@@ -164,8 +164,7 @@ class SignumApp:
         elif col == "#2":
             if bal == 0:
                 messagebox.showwarning("Zero Balance", "This contract has zero balance and does not require cancellation.")
-            else:
-                self.cancel(addr)
+            self.cancel(addr)
 
     # ================= CANCEL =================
     def cancel(self, contract):
